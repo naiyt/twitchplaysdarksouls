@@ -1,7 +1,7 @@
 Twitch Plays Dark Souls
 =======================
 
-This was the code used for the "[Twitch Plays Dark Souls](http://twitch.tv/naiyte)" experiment (a knock off of the popular "Twitch Plays Pokemon" stream, but with a much more ridiculous game).
+This was the code used for the Twitch Plays Dark Souls experiment (a knock off of the popular "Twitch Plays Pokemon" stream, but with a much more ridiculous game).
 
 Please keep in mind that this code could very much be considered alpha for something like this, and I threw it together in an afternoon. There are bugs, and I can't guarantee it will work for you or your game. Feel free to fork it and use it to your heart's content, just be aware that it may break on you.
 
